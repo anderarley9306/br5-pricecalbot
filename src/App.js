@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <NavbarComp/>
+        <div></div>
       </header>
       <div><div/>
     </div>
